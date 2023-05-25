@@ -23,7 +23,7 @@ name                     : " "
 description              : "Support for Performance Microsoft Azure App Service."
 url                      :  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               :  # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               :  #https://github.com/Appservicesperformance/appserviceperformance.github.io.git GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : #"assets/images/azurelogo.svg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "assets/images/appservicelogo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "Azure App Service Performance"# overrides the website title displayed in the masthead, use " " for no title
