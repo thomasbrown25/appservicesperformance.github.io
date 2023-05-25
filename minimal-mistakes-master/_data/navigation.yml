@@ -1,0 +1,35 @@
+# main links
+main:
+  - title: "Blog Posts"
+    url: /posts/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+links:
+  - title: "Product Areas"
+    children:
+      - title: "Windows"
+        url: "/windows/"
+      - title: "Linux"
+        url: "/linux/"
+  - title: Azure Resources
+    children:
+      - title: "Azure App Service Blog"
+        url: https://azure.github.io/AppService/
+  - title: "Archives"
+    children:
+      - title: "2023"
+        url: "/posts/#2023"
+      - title: "2022"
+        url: "/posts/#2022"
+      - title: "All posts"
+        url: "/posts/"
