@@ -1,13 +1,23 @@
 ---
-title: "Health Check"
-permalink: /docs/healthcheck/
-excerpt: "health Check Azure App Services"
-last_modified_at: 2023-05-24T0:48:05-04:00
-redirect_from:
-  - /theme-setup/
+title: "Logging configuration with JBoss EAP and Spring Boot"
+author_name: "Anthony Salemo"
+tags:
+    - JBoss EAP
+    - Java
+    - Deployments
+    - Troubleshooting
+categories:
+    - Azure App Service on Linux # Azure App Service on Linux, Azure App Service on Windows, Function App, Azure VM, Azure SDK
+    - Configuration
+    - Java # Python, Java, PHP, Nodejs, Ruby, .NET Core
+    - JBoss EAP
+    - Troubleshooting 
+header:
+    teaser: /assets/images/javalinux.png # There are multiple logos that can be used in "/assets/images" if you choose to add one.
+# If your Blog is long, you may want to consider adding a Table of Contents by adding the following two settings.
 toc: true
-sidebar:
-  nav: "products"
+toc_sticky: true
+date: 2023-05-22 12:00:00
 ---
 
 
