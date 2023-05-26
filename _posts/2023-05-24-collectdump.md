@@ -15,7 +15,6 @@ Go to App Service Menu, once you have accessed your application, search for “D
 
 [![](/media/2023/collectdump/01.PNG)](/media/2023/collectdump/01.PNG)
 
-![image](https://github.com/Appservicesperformance/appservicesperformance.github.io/assets/42865334/6e6a53df-fb27-47fd-8592-2b8d284abe77)
 
 
 Click on “Diagnostics Tools”.
