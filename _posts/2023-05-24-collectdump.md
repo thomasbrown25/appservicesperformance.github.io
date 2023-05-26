@@ -5,7 +5,7 @@ categories:
     - Windows # Azure App Service on Linux, Azure App Service on Windows, Function App, Azure VM, Azure SDK
 toc: true
 toc_sticky: true
-date: 2023-05-26 12:00:00
+date: 2023-05-25 12:00:00
 ---
 
 
