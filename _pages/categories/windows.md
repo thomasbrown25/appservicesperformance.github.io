@@ -1,11 +1,15 @@
 ---
 title: "Windows"
+permalink: "/windows/"
 author_name: "Isabel Chavarria"
 categories:
     - windows 
 toc: true
 toc_sticky: true
+layout: single
 date: 2023-05-25 12:00:00
+sidebar: 
+    nav: "links"
 ---
 
 

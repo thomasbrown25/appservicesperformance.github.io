@@ -1,12 +1,17 @@
 ---
 title: "Linux"
+permalink: "/linux/"
 author_name: "Isabel Chavarria"
 categories:
-    - Linux 
+    - linux 
 toc: true
 toc_sticky: true
+layout: single
 date: 2023-05-25 12:00:00
+sidebar: 
+    nav: "links"
 ---
+
 
 
 # Azure App Service Linux
