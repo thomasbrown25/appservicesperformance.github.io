@@ -1,6 +1,6 @@
 ---
 title: "Health Check"
-author_name: "Isabel Chavarria"
+author_name: "Isabel Chavarria & Sree Vani Koneru"
 categories:
     - Windows # Azure App Service on Linux, Azure App Service on Windows, Function App, Azure VM, Azure SDK
 toc: true
