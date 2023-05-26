@@ -1,13 +1,11 @@
 ---
 title: "Collect Memory Dump App Services"
-permalink: /docs/collectdump/
-excerpt: "How to collect memory dump app service."
-last_modified_at: 2023-05-24T0:48:05-04:00
-redirect_from:
-  - /theme-setup/
+author_name: "Isabel Chavarria"
+categories:
+    - Windows # Azure App Service on Linux, Azure App Service on Windows, Function App, Azure VM, Azure SDK
 toc: true
-sidebar:
-  nav: "products"
+toc_sticky: true
+date: 2023-05-26 12:00:00
 ---
 
 
