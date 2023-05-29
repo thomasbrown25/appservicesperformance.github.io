@@ -40,6 +40,6 @@ Azure App Service is a fully managed platform as a service (PaaS) offering for d
 
 ## Quickstart:
 
-[ASP NET windows](https://learn.microsoft.com/en-us/azure/app-service/quickstart-dotnetcore?tabs=netframework48&pivots=development-environment-vs)
-[Node.js windows](https://learn.microsoft.com/en-us/azure/app-service/quickstart-nodejs?pivots=development-environment-vscode&tabs=windows)
-[Java for windows](https://learn.microsoft.com/en-us/azure/app-service/quickstart-java?pivots=platform-windows-development-environment-azure-portal&tabs=javase)
+- [ASP NET windows](https://learn.microsoft.com/en-us/azure/app-service/quickstart-dotnetcore?tabs=netframework48&pivots=development-environment-vs)
+- [Node.js windows](https://learn.microsoft.com/en-us/azure/app-service/quickstart-nodejs?pivots=development-environment-vscode&tabs=windows)
+- [Java for windows](https://learn.microsoft.com/en-us/azure/app-service/quickstart-java?pivots=platform-windows-development-environment-azure-portal&tabs=javase)
