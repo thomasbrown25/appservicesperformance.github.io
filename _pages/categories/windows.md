@@ -13,14 +13,14 @@ sidebar:
 ---
 
 
-# Azure App Service Linux
+# Azure App Service Windows
 
 App Service is an HTTP based service for hosting web application, REST APIs, and mobile backends.
 
 
 ## Built in Languages and frameworks
 
-App Service Linux supports a number of languages like: Node.js, Java, Tomcat, PHP, Python, .NET Core and Ruby. 
+App Service Windows supports a number of languages like: Node.js, Java, Tomcat, PHP, Python, .NET Core and Ruby. 
 
 Run to check the supported languages and versions:
 [Supported versions](https://learn.microsoft.com/en-us/cli/azure/webapp?view=azure-cli-latest#az-webapp-list-runtimes)
