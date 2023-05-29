@@ -31,5 +31,7 @@ links:
         url: "/posts/#2023"
       - title: "2022"
         url: "/posts/#2022"
+      - title: "2021"
+        url: "/posts/#2021"
       - title: "All posts"
         url: "/posts/"
