@@ -16,8 +16,6 @@ date: 2023-05-26 12:00:00
 
 ---
 
-# Session state in Asp.net
-
 In Azure Web Apps, you can store session state using various methods. Here are a few options:
 
 1. InProc: This is the default session state mode in Azure Web Apps. InProc mode stores session data in the memory of the web server hosting your application. However, note that when you scale out your application to multiple instances or if the application restarts, the session data will be lost.
