@@ -31,3 +31,4 @@ This issue is known and nicely documented at the following places.
 
 Asp.net core:
 [https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md#avoid-using-taskresult-and-taskwait](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md#avoid-using-taskresult-and-taskwait)
+git sttgit 
