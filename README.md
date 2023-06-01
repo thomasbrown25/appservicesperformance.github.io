@@ -2,8 +2,6 @@
 Azure App Service Performance team
 
 
-# Azure OSS Blog Post Archives
-
 View the GitHub Pages site at [azureossd.github.io](https://azureossd.github.io/).
 
 ## Prerequisites
