@@ -7,7 +7,7 @@ toc: true
 toc_sticky: true
 date: 2023-05-26 12:00:00
 ---
-# Health Check in Azure App Service
+## Health Check in Azure App Service
 
 Health check is a critical feature for any application that needs to run reliably and continuously. It is particularly important in cloud-based environments, where applications are hosted on shared infrastructure that may experience failures or outages. Azure App Service provides a powerful and flexible health check mechanism that enables users to monitor the health of their web apps and ensure they are running smoothly.
 
@@ -50,7 +50,7 @@ To enable health check, follow these steps:
 5. Add the Health Check Path.
 
 
-#### NOTE: Health check configuration changes restart your app. To minimize impact to production apps, we recommend configure slots and swapping to production.   
+**NOTE:** Health check configuration changes restart your app. To minimize impact to production apps, we recommend configure slots and swapping to production. **  
 
 ### Additional Configuration Options
 
@@ -75,8 +75,5 @@ Health check is a critical feature for any application that needs to run reliabl
 
 ## FAQ 
 
- 
-
-#### Application running on just one instance 
-
+### Application running on just one instance 
 If the instance becomes unhealthy, it will not be removed from the load balancer because that would take down the application. However, after one hour of continuous unhealthy pings, the instance is replaced. 

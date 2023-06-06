@@ -9,7 +9,7 @@ toc_sticky: true
 date: 2023-05-26 09:00:00
 ---
 
-# ARR Affinity Azure App Services 
+## ARR Affinity Azure App Services 
 
 ARR cleverly identifies the user by assigning them a special cookie (known as an affinity cookie), which allows the service to choose the right instance the user was using to serve subsequent requests made by that user. That means that if we have the ARR Affinity enabled, a client is tied to a specific web worker until the session finishes.
 
@@ -23,7 +23,7 @@ ARR cleverly identifies the user by assigning them a special cookie (known as an
 
 ![flow](/media/2023/arr/01.png)
 
-### Note: If you don’t need it, you can disable it there. Just need to select off and click on the save button.
+ **Note:** If you don’t need it, you can disable it there. Just need to select off and click on the save button.
 
 ## How to check the ARR Affinity cookie on my application
 

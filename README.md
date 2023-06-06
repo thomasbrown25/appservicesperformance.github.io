@@ -35,3 +35,4 @@ For bullet use "-"
 Subtitles use ## 
 
 For topics inside of any subtittle use ###
+For notes use ** Add the note**

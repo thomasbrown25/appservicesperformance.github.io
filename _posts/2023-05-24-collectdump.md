@@ -9,7 +9,7 @@ date: 2023-05-25 12:00:00
 ---
 
 
-#### How to collect the dump file on Azure via Azure portal?
+## How to collect the dump file on Azure via Azure portal?
 
 Go to App Service Menu, once you have accessed your application, search for “Diagnose and Solve Problems”.
 
