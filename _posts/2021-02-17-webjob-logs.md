@@ -3,6 +3,8 @@ title: "Webjob Logs"
 author_name: "Isabel Chavarria"
 categories:
     - Windows
+tags:
+    - Collect data
 toc: true
 toc_sticky: true
 date: 2021-02-17 09:00:00

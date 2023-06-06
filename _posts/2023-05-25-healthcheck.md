@@ -2,7 +2,10 @@
 title: "Health Check"
 author_name: "Isabel Chavarria & Sree Vani Koneru"
 categories:
-    - Windows # Azure App Service on Linux, Azure App Service on Windows, Function App, Azure VM, Azure SDK
+    - Windows
+tags:
+    - How it works
+    - Collect data
 toc: true
 toc_sticky: true
 date: 2023-05-26 12:00:00

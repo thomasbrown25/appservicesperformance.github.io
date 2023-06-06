@@ -4,6 +4,8 @@ author_name: "Isabel Chavarria"
 categories:
     - Windows
     - linux
+tags:
+    - How it works
 toc: true
 toc_sticky: true
 date: 2023-05-26 09:00:00
