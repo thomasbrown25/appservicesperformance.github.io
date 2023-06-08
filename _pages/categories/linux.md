@@ -29,4 +29,4 @@ Run to check the supported languages and versions:
  - App Service Linux is not supported on **Share**
  - The Azure portal shows only features that currently work for Linux apps. As features are enabled, they're activated on the portal.
 
-[ASP NET windows or linux](https://learn.microsoft.com/en-us/azure/app-service/quickstart-dotnetcore?tabs=netframework48&pivots=development-environment-vs)
+[ASP NET linux](https://learn.microsoft.com/en-us/azure/app-service/quickstart-dotnetcore?tabs=netframework48&pivots=development-environment-vs)

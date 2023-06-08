@@ -3,10 +3,13 @@ title: "Webjob Logs"
 author_name: "Isabel Chavarria"
 categories:
     - Windows
+tags:
+    - Collect data
 toc: true
 toc_sticky: true
 date: 2021-02-17 09:00:00
 ---
+## How to get the WebJob Logs
 
 The webjobs on Azure app Service run on the KUDU process, sometimes we are not sure how to retrieve data about my webjob. Is important to mention that you can monitor your WebJobs from the Azure Portal. 
 
@@ -42,7 +45,7 @@ You can see the time of start and the time when the webjob finished.
 
 Application Insights is a Service we provide that you can use to monitor live your web application. It includes analytics tools that can help you diagnose issues. You can also add some lines of code so that the WebJobs send the data directly to the Application Insights tool for you to diagnose as well.
 
-#### Please refer to the following documentation:
+## Please refer to the following documentation:
 
 - [Overview](https://docs.microsoft.com/en-us/azure/application-insights/app-insights-overview )
 
