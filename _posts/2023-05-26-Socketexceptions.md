@@ -13,8 +13,3 @@ toc_sticky: true
 
 date: 2023-05-26 12:00:00
 ---
-
-<<<<<<< HEAD
-=======
-## Troubleshooting Socket exception for ASP.NET applications in Azure App Service
->>>>>>> 220cdb632361b4075eec19ae8d416cdb2ea59066
