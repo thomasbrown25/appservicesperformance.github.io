@@ -9,6 +9,19 @@ toc: true
 toc_sticky: true
 date: 2021-02-17 09:00:00
 ---
+<html>
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0DC5DVJXR5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-0DC5DVJXR5');
+</script>
+</head>
+</html>
 ## How to get the WebJob Logs
 
 The webjobs on Azure app Service run on the KUDU process, sometimes we are not sure how to retrieve data about my webjob. Is important to mention that you can monitor your WebJobs from the Azure Portal. 
