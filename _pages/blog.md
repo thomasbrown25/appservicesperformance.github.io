@@ -5,6 +5,8 @@ author_profile: false
 sidebar: 
     nav: "links"
 header:
-    overlay_filter: 0.3
+    overlay_image: /media/pages/background.png
+    overlay_filter: 0.5
+    og_image: "assets/images/icon.png"
 entries_layout: grid
 ---
