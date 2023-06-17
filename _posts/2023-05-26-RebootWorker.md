@@ -15,6 +15,7 @@ toc_sticky: true
 date: 2023-05-26 12:00:00
 
 ---
+
 <html>
 <head>
   <!-- Google tag (gtag.js) -->
@@ -69,3 +70,5 @@ Press RUN ▶ and the API will do its magic.
 You can also use Azure CLI to call the API directly without the need to specify an authentication token. You would call the API using the "az rest" command. You will need to login to Azure CLI and, if necessary, set the subscription prior to executing the "az rest" command.
 
 az rest --method POST --uri /subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.Web/serverfarms/{name}/workers/{workerName}/reboot?api-version=2022-03-01
+
+
