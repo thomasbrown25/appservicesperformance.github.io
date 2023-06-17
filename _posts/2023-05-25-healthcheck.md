@@ -10,6 +10,20 @@ toc: true
 toc_sticky: true
 date: 2023-05-26 12:00:00
 ---
+<html>
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0DC5DVJXR5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-0DC5DVJXR5');
+</script>
+</head>
+</html>
+
 ## Health Check in Azure App Service
 
 Health check is a critical feature for any application that needs to run reliably and continuously. It is particularly important in cloud-based environments, where applications are hosted on shared infrastructure that may experience failures or outages. Azure App Service provides a powerful and flexible health check mechanism that enables users to monitor the health of their web apps and ensure they are running smoothly.
