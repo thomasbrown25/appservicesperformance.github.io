@@ -1,0 +1,6 @@
+{
+    "MD033": {
+      "allowed_elements": ["em", "strong", "a","html","head","script","div", "Exception", "Process","add"]
+    }
+  }
+  
