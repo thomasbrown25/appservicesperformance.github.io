@@ -45,26 +45,26 @@ both ASP.NET and ASP.NET core applications.**
 
 ## How to collect the .NET Profiler Trace?
 
-Go to App Service Menu, once you have accessed your application,
+1. Go to App Service Menu, once you have accessed your application,
 search for **“Diagnose and Solve Problems”**
 
-![flow](/media/2023/profiler/01.png)
+    ![flow](/media/2023/profiler/01.png)
 
-Click on **“Diagnostics Tools”**
+2. Click on **“Diagnostics Tools”**
 
-![flow](/media/2023/profiler/02.png)
+    ![flow](/media/2023/profiler/02.png)
 
-On the Diagnostics Tools on the left side we will be able to see some tools to
+3. On the Diagnostics Tools on the left side we will be able to see some tools to
 collect data on the app services, please select **“Collect .NET profiler Trace”**
 
-![flow](/media/2023/profiler/03.png)
+    ![flow](/media/2023/profiler/03.png)
 
-Select the instances and select **“add thread report”**
-Then Click on the **“Collect Profiler Trace”**
+4. Select the instances and select **“add thread report”**
+5. Then Click on the **“Collect Profiler Trace”**
 
-![flow](/media/2023/profiler/04.png)
+    ![flow](/media/2023/profiler/04.png)
 
-After the analysis is completed, you will notice two files once that is
+6. After the analysis is completed, you will notice two files once that is
 .diagsession that will help to investigate on your end the profile file and in
 addition the .html that contain that analysis of the .diagsession file. You can
 also see the last 5 sessions captured.
