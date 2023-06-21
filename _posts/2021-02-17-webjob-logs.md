@@ -68,7 +68,7 @@ your web application. It includes analytics tools that can help you diagnose iss
 You can also add some lines of code so that the WebJobs send the data directly
 to the Application Insights tool for you to diagnose as well.
 
-## Please refer to the following documentation:
+## Please refer to the following documentation
 
 - [Overview](https://docs.microsoft.com/en-us/azure/application-insights/app-insights-overview )
 
