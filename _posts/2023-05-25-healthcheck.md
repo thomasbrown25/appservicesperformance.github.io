@@ -108,10 +108,10 @@ impact to production apps, we recommend configure slots and swapping to producti
 
 There are two additional configuration options available for health checks:
 
-| Configuration Option                      | Description                                                                                                    |
+| Configuration Option                      | Description                       |
 |-------------------------------------------|----------------------------------------------------------------------------------------------------------------|
 | WEBSITE_HEALTHCHECK_MAXPINGFAILURES       | This option defines the required number of failed requests for an instance to be considered unhealthy and removed from the load balancer. |
-| WEBSITE_HEALTHCHECK_MAXUNHEALTHYWORKERPERCENT | By default, the health check will no remove more than half of the instances in case of "unhealthy". However; customer can override this behavior, set app setting to a value between 1 and 100. A higher value means more unhealthy instances will be removed (default value is 50).  |
+| WEBSITE_HEALTHCHECK_MAXUNHEALTHYWORKERPERCENT | By default, the health check will no remove more than half of the instances in case of **"unhealthy"**. However; customer can override this behavior, set app setting to a value between 1 and 100. A higher value means more unhealthy instances will be removed (default value is 50).  |
 
 ## Health Check Monitoring in Azure
 

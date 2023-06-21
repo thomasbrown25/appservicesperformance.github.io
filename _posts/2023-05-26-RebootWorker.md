@@ -38,7 +38,7 @@ many ills that the App Service is experiencing.
 
 There is an API used for instance reboot.
 This will reboot your instance, and thus, it will assign you to another worker instance.
-You will find the documentation at - [App Service Plans - Reboot Worker ](https://learn.microsoft.com/en-us/rest/api/appservice/app-service-plans/reboot-worker)
+You will find the documentation at - [Reboot Worker](https://learn.microsoft.com/en-us/rest/api/appservice/app-service-plans/reboot-worker)
 
 ## Calling the Reboot Worker API from Microsoft Learn
 
