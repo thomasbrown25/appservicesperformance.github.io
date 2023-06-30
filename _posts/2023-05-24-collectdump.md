@@ -1,5 +1,5 @@
 ---
-title: "Collect Memory Dump App Services"
+title: "Collect Memory Dump on App Services"
 author_name: "Isabel Chavarria"
 categories:
     - Windows
