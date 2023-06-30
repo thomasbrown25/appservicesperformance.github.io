@@ -70,3 +70,11 @@ addition the .html that contain that analysis of the .diagsession file. You can
 also see the last 5 sessions captured.
 
 ![flow](/media/2023/profiler/06.png)
+
+## Increasing the Duration for the Profiler Trace
+
+It is possible to increase the default profiling duration by setting an
+application setting IIS_PROFILING_TIMEOUT_IN_SECONDS with a maximum value
+of 900 (i.e. 15 minutes).
+If you configure this application setting to a number more than 900,
+it defaults to the 60 second value.
