@@ -4,15 +4,15 @@
 
 #main {
   @include clearfix;
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: 1em;
-  padding-right: 1em;
-  -webkit-animation: $intro-transition;
-  animation: $intro-transition;
-  max-width: 100%;
-  -webkit-animation-delay: 0.15s;
-  animation-delay: 0.15s;
+  & {margin-left: auto;}
+  & {margin-right: auto;}
+  & {padding-left: 1em;}
+  & {padding-right: 1em;}
+  & {-webkit-animation: $intro-transition;}
+  & {animation: $intro-transition;}
+  & {max-width: 100%;}
+  & {-webkit-animation-delay: 0.15s;}
+  & {animation-delay: 0.15s;}
 
   @include breakpoint($x-large) {
     max-width: 100%;
@@ -128,23 +128,23 @@
   position: relative;
   margin-bottom: 2em;
   @include clearfix;
-  -webkit-animation: $intro-transition;
-  animation: $intro-transition;
-  -webkit-animation-delay: 0.25s;
-  animation-delay: 0.25s;
+  & {-webkit-animation: $intro-transition;}
+  & {animation: $intro-transition;}
+  & {-webkit-animation-delay: 0.25s;}
+  & {animation-delay: 0.25s;}
 
   &--overlay {
     position: relative;
     margin-bottom: 2em;
     padding: 3em 0;
     @include clearfix;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    -webkit-animation: $intro-transition;
-    animation: $intro-transition;
-    -webkit-animation-delay: 0.25s;
-    animation-delay: 0.25s;
+    & {background-size: cover;}
+    & {background-repeat: no-repeat;}
+    & {background-position: center;}
+    & {-webkit-animation: $intro-transition;}
+    & {animation: $intro-transition;}
+    & {-webkit-animation-delay: 0.25s;}
+    & {animation-delay: 0.25s;}
 
     a {
       color: #fff;
@@ -404,7 +404,7 @@
 
 .comment {
   @include clearfix();
-  margin: 1em 0;
+  & {margin: 1em 0;}
 
   &:not(:last-child) {
     border-bottom: 1px solid $border-color;
@@ -417,8 +417,8 @@
   height: 60px;
 
   @include breakpoint($large) {
-    width: 100px;
-    height: 100px;
+    & {width: 100px;}
+    & {height: 100px;}
   }
 }
 
@@ -428,10 +428,10 @@
   border-radius: 50%;
 
   @include breakpoint($large) {
-    width: 80px;
-    height: 80px;
-    padding: 5px;
-    border: 1px solid $border-color;
+    & {width: 80px;}
+    & {height: 80px;}
+    & {padding: 5px;}
+    & {border: 1px solid $border-color;}
   }
 }
 
@@ -440,7 +440,7 @@
   width: calc(100% - 60px);
 
   @include breakpoint($large) {
-    width: calc(100% - 100px);
+    & {width: calc(100% - 100px);}
   }
 }
 
@@ -467,18 +467,18 @@
 
 .page__related {
   @include clearfix();
-  float: left;
-  margin-top: 2em;
-  padding-top: 1em;
-  border-top: 1px solid $border-color;
+  & {float: left;}
+  & {margin-top: 2em;}
+  & {padding-top: 1em;}
+  & {border-top: 1px solid $border-color;}
 
   @include breakpoint($large) {
-    float: right;
-    width: calc(100% - #{$right-sidebar-width-narrow});
+    & {float: right;}
+    & {width: calc(100% - #{$right-sidebar-width-narrow});}
   }
 
   @include breakpoint($x-large) {
-    width: calc(100% - #{$right-sidebar-width});
+    & {width: calc(100% - #{$right-sidebar-width});}
   }
 
   a {
