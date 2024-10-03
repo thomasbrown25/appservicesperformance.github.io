@@ -147,7 +147,7 @@ GEM
     unicode-display_width (2.5.0)
     uri (0.13.1)
     verbal_expressions (0.1.5)
-    webrick (1.8.1)
+    webrick (1.7.0)
 
 PLATFORMS
   x64-mingw-ucrt
@@ -163,7 +163,7 @@ DEPENDENCIES
   jemoji
   minimal-mistakes-jekyll
   redcarpet
-  webrick (~> 1.7)
+  webrick (= 1.7)
 
 BUNDLED WITH
    2.5.11
