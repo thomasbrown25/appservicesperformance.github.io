@@ -32,6 +32,6 @@
     "build:js": "npm run uglify && npm run add-banner"
   },
   "dependencies": {
-    "sass": "1.77.6"
+    "sass": "^1.77.8"
   }
 }
